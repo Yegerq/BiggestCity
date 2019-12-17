@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BiggestCity/1.0.0": {
+        "runtime": {
+          "BiggestCity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BiggestCity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

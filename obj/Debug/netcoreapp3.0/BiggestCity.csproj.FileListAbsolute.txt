@@ -1,0 +1,11 @@
+/Users/boxingking/Projects/BiggestCity/BiggestCity/obj/Debug/netcoreapp3.0/BiggestCity.csprojAssemblyReference.cache
+/Users/boxingking/Projects/BiggestCity/BiggestCity/obj/Debug/netcoreapp3.0/BiggestCity.AssemblyInfoInputs.cache
+/Users/boxingking/Projects/BiggestCity/BiggestCity/obj/Debug/netcoreapp3.0/BiggestCity.AssemblyInfo.cs
+/Users/boxingking/Projects/BiggestCity/BiggestCity/bin/Debug/netcoreapp3.0/BiggestCity
+/Users/boxingking/Projects/BiggestCity/BiggestCity/bin/Debug/netcoreapp3.0/BiggestCity.deps.json
+/Users/boxingking/Projects/BiggestCity/BiggestCity/bin/Debug/netcoreapp3.0/BiggestCity.runtimeconfig.json
+/Users/boxingking/Projects/BiggestCity/BiggestCity/bin/Debug/netcoreapp3.0/BiggestCity.runtimeconfig.dev.json
+/Users/boxingking/Projects/BiggestCity/BiggestCity/bin/Debug/netcoreapp3.0/BiggestCity.dll
+/Users/boxingking/Projects/BiggestCity/BiggestCity/bin/Debug/netcoreapp3.0/BiggestCity.pdb
+/Users/boxingking/Projects/BiggestCity/BiggestCity/obj/Debug/netcoreapp3.0/BiggestCity.dll
+/Users/boxingking/Projects/BiggestCity/BiggestCity/obj/Debug/netcoreapp3.0/BiggestCity.pdb
